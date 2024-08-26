@@ -1,0 +1,16 @@
+button{
+    background: $dark-green-300;
+    color: $white;
+    height: 67px;
+    width: 100px;
+    border-radius: 24px;
+}
+
+.button--secondary{
+    background: $light-green-100;
+    color: $dark-green-300;
+    border: $dark-green-300 1px solid;
+    &:hover{
+        background: $light-green-200;
+    }
+}
