@@ -1,7 +1,7 @@
 # Alura Challenge #1 LOGICA
 
 
-# **[Deployment](https://DAN-AVILA18.github.io/allura-challenge1)**
+# **[Deployment](https://dan-avila18.github.io/alurachallengedan/)**
 
 # Descripcion
 
